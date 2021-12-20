@@ -1,7 +1,5 @@
 ### Hi there 👋 ![](https://d.py3.io/blank.gif?from=github)
 
-Disclaimer: I'm not affiliated with saturnbeam team at any level. [Read More](https://github.com/zjuchenyuan/zjuchenyuan/blob/77eb0d2/README.md)
-
 <!--
 **zjuchenyuan/zjuchenyuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
